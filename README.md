@@ -1,3 +1,15 @@
+**CloudController** is a utility tool for macOS built using Swift Code and SwiftUI. This tool is used to emulate a virtual controller and then use keystrokes to control it. This tool includes a custom remapper, allowing users to change key binds to best suit the game they are playing. The setup is easy and intuitive for beginners to use. This allows users to play browser-based controller games with a keyboard instead. This will help users have more convenience and have an easier time gaming.
+
+
+
+
+
+
+
+
+
+
+
 | Platform | Supported Version | Architecture | Build Type |
 | :--- | :--- | :--- | :--- |
 | **macOS** | macOS 15 Sequoia and Above| Apple Silicon | Native Swift/SwiftUI |
@@ -31,3 +43,8 @@ Make sure to also follow the instructions in the setup tab
 If a bridge error is present, just try the setup; the error can change after the connection is found.
 If the error persists but the controller works fine, this error can be safely ignored.
 If wanting to use this tool on other sites, just copy and paste the code from the setup page in the app into the console section on any other site.
+
+
+Help
+
+Contact: arhaanshah126@gmail.com
